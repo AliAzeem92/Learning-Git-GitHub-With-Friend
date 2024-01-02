@@ -3,3 +3,9 @@
     color: red;
     text-align: center;
 }
+#A{
+    background-color: yellowgreen;
+    color: gray;
+    text-align: center;
+    justify-content: center;
+}
